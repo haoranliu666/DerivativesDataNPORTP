@@ -1,4 +1,4 @@
-# DerivativesDataNPORTP
+# Derivatives Data NPORTP
 
 Download and collect data from SEC NPORT-P file
 
